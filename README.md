@@ -82,7 +82,7 @@ def acquire_locks_in_order(self, lock_names):
 
 1. **Clonar el repositorio**:
 ```bash
-git clone https://github.com/tu-usuario/siget-sistema-trafico.git
+git clone https://github.com/Voinich26/siget-sistema-trafico
 cd siget-sistema-trafico
 ```
 
