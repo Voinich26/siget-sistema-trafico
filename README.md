@@ -318,26 +318,11 @@ Este proyecto es desarrollado con fines académicos. Ver `LICENSE` para más det
 
 ## 📞 Contacto
 
-- **Autor**: [Tu Nombre]
-- **Email**: [tu-email@universidad.edu]
+- **Autor**: Angel E. Gonzalez
+- **Email**: angel.guiral708@pascualbravo.edu.co
 - **Curso**: Concurrencia en Sistemas Operativos
-- **Universidad**: [Nombre de la Universidad]
+- **Universidad**: Pascual Bravo
 
----
-
-## 📸 Capturas de Pantalla
-
-### Interfaz Principal
-![Interfaz Principal](screenshots/main_interface.png)
-
-### Panel de Control
-![Panel de Control](screenshots/control_panel.png)
-
-### Visualización de Semáforos
-![Semáforos](screenshots/traffic_lights.png)
-
-### Logs del Sistema
-![Logs](screenshots/system_logs.png)
 
 ---
 
