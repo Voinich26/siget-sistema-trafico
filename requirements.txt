@@ -1,0 +1,4 @@
+# Este proyecto no requiere dependencias externas.
+# Todas las librerías utilizadas (tkinter, socket, threading, queue, json, time, random, logging)
+# pertenecen a la biblioteca estándar de Python y ya vienen incluidas.
+
